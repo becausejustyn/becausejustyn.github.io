@@ -131,4 +131,5 @@ Quote break.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide=css,html)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&count_private=true&theme=cobalt)
 * * *
