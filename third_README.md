@@ -24,7 +24,11 @@
 
 ***
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=b7iflt2s6um28zx952r2rp1q9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=b7iflt2s6um28zx952r2rp1q9&cover_image=true&theme=default&bar_color=2c7f29&bar_color_cover=true)]]
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&unique={true|1|on|yes})
+
+***
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&unique={true|1|on|yes}&count={10})
 
 ***
 
