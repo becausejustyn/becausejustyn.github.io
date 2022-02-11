@@ -28,6 +28,10 @@
 
 ***
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&count={count})
+
+***
+
 ```yaml
 name: Erwin Lejeune
 located_in: Odense, Denmark
