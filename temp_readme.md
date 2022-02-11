@@ -5,7 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=becausejustyn)](https://github.com/ryo-ma/github-profile-trophy&theme=darcula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn)](https://github.com/anuraghazra/github-readme-stats&theme=darcula)
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)
 ***
