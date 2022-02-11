@@ -16,10 +16,6 @@
 
 ***
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9)
-
-***
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&unique={true|1|on|yes})
 
 ***
