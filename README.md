@@ -127,7 +127,7 @@ Quote break.
   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=becausejustyn&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 * * *
