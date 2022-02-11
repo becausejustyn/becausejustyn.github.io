@@ -133,12 +133,5 @@ Quote break.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&count_private=true&theme=cobalt)
 
-#### First
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Second
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
