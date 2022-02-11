@@ -141,13 +141,4 @@ Quote break.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Third
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=convoychat" />
-</a>
-
 * * *
