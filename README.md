@@ -127,13 +127,6 @@ Quote break.
   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=becausejustyn&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&layout=compact&hide=css,html)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&count_private=true&theme=cobalt)
-
-
 * * *
 
 <p align="center">
@@ -142,7 +135,6 @@ Quote break.
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=becausejustyn&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 <!-- <p align="center">
