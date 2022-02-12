@@ -15,3 +15,27 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula) 
 </div>
+***
+<style>
+.container {  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+}
+
+.Champ { grid-area: 1 / 1 / 2 / 2; }
+
+.div1 { grid-area: 1 / 1 / 3 / 2; }
+
+.div2 { grid-area: 1 / 2 / 2 / 3; }
+
+.div3 { grid-area: 2 / 2 / 3 / 3; }
+</style>
+
+<div class="container">
+  <div class="Champ"></div>
+  <div class="div1">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)</div>
+  <div class="div2">![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  </div>
+  <div class="div3">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula) </div>
+</div>
