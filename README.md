@@ -46,13 +46,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
   <br>
 </p>
 
-<!-- <p align="center">
+***
+
+![trophy](https://github-profile-trophy.vercel.app/?username=becausejustyn&theme=dracula&column=3&margin-w=15&margin-h=15)
+
+***
+
+<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=pixel-weather">
-</p> -->
+</p>
 
 
-<!--
+
 **Justyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -65,4 +71,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
