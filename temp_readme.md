@@ -15,9 +15,25 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula) 
 </div>
+
 ***
 
 <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula">
   <img align="right" src ="https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula">
 </p>
+
+***
+
+<br align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula">
+  <img align="right" src ="https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula">
+</br>
+
+***
+
+
+<div align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula">
+  <img align="right" src ="https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula">
+</div>
