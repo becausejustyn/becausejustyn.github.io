@@ -16,27 +16,18 @@
 
 ***
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&unique={true|1|on|yes})
-
-***
-
-
 ```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-job: Navigation and Control Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Coalescent Mobile Robotics
-
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["microROS"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+name: Justyn
+located_in: Sydney, Australia
+education: ["Master's in Data Science", "Bachelor's in Psychology"]
+hobbies: ["Sport", "Gaming", "Reading", "Science"]
 ```
 
 ***
 
+I have a blog over at <a href="https://becausejustyn.netlify.app/">https://becausejustyn.netlify.app/</a>
+
+***
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -48,27 +39,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ***
 
-![trophy](https://github-profile-trophy.vercel.app/?username=becausejustyn&theme=dracula&column=3&margin-w=15&margin-h=15)
-
-***
-
 <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=becausejustyn&repo=pixel-weather">
+  <img align="center" src ="https://github-profile-trophy.vercel.app/?username=becausejustyn&theme=dracula&column=3&margin-w=15&margin-h=15">
+  <img align="center" src ="https://spotify-recently-played-readme.vercel.app/api?user=b7iflt2s6um28zx952r2rp1q9&unique={true|1|on|yes}">
+  <br>
+  <br>
 </p>
-
-
-
-**Justyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
