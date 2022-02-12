@@ -12,13 +12,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula)  
 
 ***
-<table>
-<tbody>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula)  </tr>
-</tbody>
-</table>
