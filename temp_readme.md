@@ -6,23 +6,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=becausejustyn&theme=dracula&column=3&margin-w=15&margin-h=15)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)
-***
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  
-***
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula)  
-***
-<div style="display:inline-block;vertical-align:left;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)
-***
-</div>
-<div style="display:inline-block;">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=becausejustyn&show_icons=true&theme=darcula)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula)  
-</div>
-***
-
 <div style="display:inline-block;vertical-align:top;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)
