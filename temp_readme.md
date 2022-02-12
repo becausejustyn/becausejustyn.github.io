@@ -12,7 +12,7 @@
 ***
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=becausejustyn&theme=darcula)  
 ***
-<div style="display:inline-block;vertical-align:top;">
+<div style="display:inline-block;vertical-align:left;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausejustyn&theme=darcula)
 </div>
